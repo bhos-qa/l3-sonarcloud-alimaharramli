@@ -1,2 +1,2 @@
-rootProject.name = "l3-sonarcloud"
+rootProject.name = "l3-sonarcloud-alimaharramli"
 
